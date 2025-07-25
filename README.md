@@ -77,8 +77,3 @@ Hospital Management, MERN Stack, MongoDB, Express.js, React, Node.js, Healthcare
 
 
 
-# Contact
-For any questions or feedback, please contact [Niraj Kumar](https://www.linkedin.com/in/nirajkumar-nk/)
-
-# License
-This project is licensed under the MIT License.
